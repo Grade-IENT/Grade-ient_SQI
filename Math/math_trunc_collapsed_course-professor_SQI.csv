@@ -1,0 +1,840 @@
+01:640:001,Computational Skills,"Burns, Sandra",4.14
+01:640:025,Elementary Algebra,"Patel, Saiju",3.92
+01:640:025,Elementary Algebra,"Schwartz, Sharon",3.66
+01:640:025,Elementary Algebra,"Perkowski, James",3.12
+01:640:025,Elementary Algebra,"Collins, Eliot",3.65
+01:640:025,Elementary Algebra,"Romano, Alfred",4.0
+01:640:025,Elementary Algebra,"Burns, Sandra",3.66
+01:640:026,Intermediate Algebra,"Mukherjee, Arun",4.07
+01:640:026,Intermediate Algebra,"Schwartz, Sharon",3.26
+01:640:026,Intermediate Algebra,"Khosla, Noopur",2.19
+01:640:026,Intermediate Algebra,"Nazi, Ghassan",4.36
+01:640:026,Intermediate Algebra,"Safran, Steven",3.97
+01:640:026,Intermediate Algebra,"Perkowski, James",3.18
+01:640:026,Intermediate Algebra,"Benedict, Krista",4.52
+01:640:103,Topics Math Lib Arts,"Lopes, Denise",4.35
+01:640:103,Topics Math Lib Arts,"Vaksman, Sofia",4.09
+01:640:103,Topics Math Lib Arts,"Arias, Cecilia",4.56
+01:640:103,Topics Math Lib Arts,"Ross, Arianne",3.74
+01:640:103,Topics Math Lib Arts,"Roemer, Cynthia",3.73
+01:640:103,Topics Math Lib Arts,"Milman, Yevgeniy",4.01
+01:640:104,Intro To Probability: Intro. To Probability,"Roemer, Cynthia",3.89
+01:640:104,Intro To Probability,"Sergel, Emily",4.11
+01:640:106,Mathematics Of Money,"Arias, Cecilia",4.56
+01:640:106,Mathematics Of Money,"Sherwood, Deborah",4.59
+01:640:106,Mathematics Of Money,"Forgoston, Sacha",4.33
+01:640:107,Number&oper For K-8,"Lieberman, Melissa",4.48
+01:640:109,Geo&meas Midle Tchng,"Beals, Robert",4.17
+01:640:111,Precalc Part 1,"Kinkhabwala, Rita",3.98
+01:640:111,Precalc Part 1,"Sprague, Gabriela",3.73
+01:640:111,Precalc Part 1,"Schwarz, Jeffrey",3.98
+01:640:111,Precalc Part 1,"Woo, Jeffrey",4.3
+01:640:111,Precalc Part 1,"Mulvey, Sally",3.82
+01:640:111,Precalc Part 1,"Morehead, Diane",3.96
+01:640:111,Precalc Part 1,"Patel, Dhansukh",3.83
+01:640:111,Precalc Part 1,"Amodio, James",3.98
+01:640:111,Precalc Part 1,"Unger, Laura",4.11
+01:640:112,Precalc Part 2,"Amodio, James",4.31
+01:640:112,Precalc Part 2,"Patel, Dhansukh",3.19
+01:640:112,Precalc Part 2,"Cochran, Geraldine",4.21
+01:640:112,Precalc Part 2,"Scheiman, David",4.39
+01:640:115,Precalc College Math,"Safran, Steven",3.96
+01:640:115,Precalc College Math,"Frankie, Joseph",3.62
+01:640:115,Precalc College Math,"Mulvey, Sally",3.92
+01:640:115,Precalc College Math,"Hirsch, Lewis",3.53
+01:640:115,Precalc College Math,"Patel, Saiju",3.86
+01:640:115,Precalc College Math,"Scheiman, David",4.15
+01:640:115,Precalc College Math,"Woo, Jeffrey",4.3
+01:640:115,Precalc College Math,"Menke, Michael",3.89
+01:640:115,Precalc College Math,"Abadir, Rasha",4.2
+01:640:115,Precalc College Math,"Sarker, Shorab",3.94
+01:640:123,Prep For Calc I,"Amodio, James",4.29
+01:640:135,Calc I Life&soc Sci,"Tabanli, Sheila",3.87
+01:640:135,Calc I Life&soc Sci,"D'Alesandro, Anthony",4.0
+01:640:135,Calc I Life&soc Sci,"Goldberg, Richard",3.89
+01:640:135,Calc I Life&soc Sci,"Guadagni, Joseph",4.12
+01:640:135,Calc I Life&soc Sci,"Ning, Harold",3.53
+01:640:135,Calc I Life&soc Sci,"Threlfall, Shawn",4.11
+01:640:135,Calc I Life&soc Sci,"Grier, Toby",3.69
+01:640:135,Calc I Life&soc Sci,"Parmar, Davanjit",4.27
+01:640:135,Calc I Life&soc Sci,"Sprague, Gabriela",3.72
+01:640:135,Calc I Life&soc Sci,"Hafizi, Fatemeh",3.52
+01:640:135,Calc I Life&soc Sci,"Sargsyan, Grigor",3.48
+01:640:135,Calc I Life&soc Sci,"Vaksman, Sofia",3.69
+01:640:135,Calc I Life&soc Sci,"Mulvey, Sally",3.55
+01:640:135,Calc I Life&soc Sci,"Cooney, Bernadette",3.84
+01:640:135,Calc I Life&soc Sci,"Menke, Michael",4.01
+01:640:135,Calc I Life&soc Sci,"Charnley, Matthew",3.54
+01:640:135,Calc I Life&soc Sci,"Banerjee, Banmali",3.98
+01:640:135,Calc I Life&soc Sci,"Goonetilleke, Lasantha",4.01
+01:640:135,Calc I Life&soc Sci,"Hendricks, Kristen",3.59
+01:640:135,Calc I Life&soc Sci,"Milman, Yevgeniy",4.15
+01:640:135,Calc I Life&soc Sci,"Schwarz, Jeffrey",4.0
+01:640:135,Calc I Life&soc Sci,"Bradley, Kristen",3.75
+01:640:135,Calc I Life&soc Sci,"Noone, Kevin",4.26
+01:640:135,Calc I Life&soc Sci,"Soffer, Sara",3.71
+01:640:135,Calc I Life&soc Sci,"Scheiman, David",4.27
+01:640:136,Calc II Life&soc Sci,"Threlfall, Shawn",4.23
+01:640:136,Calc II Life&soc Sci,"Ning, Harold",3.48
+01:640:151,Calc I Math/phys,"Bahri Nunziante, Diana",3.87
+01:640:151,Calc I Math/phys,"O'Halloran, Roger",4.01
+01:640:151,Calc I Math/phys,"Krueger, August",3.17
+01:640:151,Calc I Math/phys,"Cooney, Bernadette",3.95
+01:640:151,Calc I Math/phys,"Noone, Kevin",3.98
+01:640:151,Calc I Math/phys,"Prevost, Shari",3.76
+01:640:151,Calc I Math/phys,"Coley, Ian",3.74
+01:640:151,Calc I Math/phys,"Sarker, Shorab",3.02
+01:640:151,Calc I Math/phys,"Song, Jian",3.67
+01:640:151,Calc I Math/phys,"Sergel, Emily",3.89
+01:640:151,Calc I Math/phys,"Khosla, Noopur",3.12
+01:640:151,Calc I Math/phys,"Peterson, Stephen",4.05
+01:640:151,Calc I Math/phys,"Parmar, Davanjit",3.96
+01:640:151,Calc I Math/phys,"Charnley, Matthew",4.2
+01:640:151,Calc I Math/phys,"Wasserman, Eric",4.13
+01:640:151,Calc I Math/phys,"Smythe, Iian",4.32
+01:640:151,Calc I Math/phys,"Mischaikow, Konstantin",3.33
+01:640:152,Calc II Math/phys,"Soffer, Sara",3.75
+01:640:152,Calc II Math/phys,"Marszalek, Wieslaw",3.2
+01:640:152,Calc II Math/phys,"Banerjee, Banmali",3.95
+01:640:152,Calc II Math/phys,"Ullman, Peter",4.13
+01:640:152,Calc II Math/phys,"Abadir, Rasha",3.76
+01:640:152,Calc II Math/phys,"Zurovchak, James",4.04
+01:640:152,Calc II Math/phys,"Sesum, Natasa",4.03
+01:640:152,Calc II Math/phys,"Cogar, Samuel",4.32
+01:640:152,Calc II Math/phys,"Toprak, Ebru",3.85
+01:640:152,Calc II Math/phys,"Sosa, Jose",3.68
+01:640:152,Calc II Math/phys,"Barreto-Aranda, Victor",3.31
+01:640:152,Calc II Math/phys,"Malik, Amita",3.05
+01:640:244,Diff Eqs/engr&phys,"Kallupalam Balasubram, Moulik",4.08
+01:640:244,Diff Eqs/engr&phys,"Shtelen, Vladimir",3.89
+01:640:244,Diff Eqs/engr&phys,"Tsipenyuk, Natalya",4.2
+01:640:244,Diff Eqs/engr&phys,"Echeverria Echeverria, Mariano",4.27
+01:640:244,Diff Eqs/engr&phys,"Balaban, Tadeusz",3.54
+01:640:250,Intro Linear Algebra,"Sargsyan, Grigor",3.44
+01:640:250,Intro Linear Algebra,"Sanchez Tapia, Cynthia",3.45
+01:640:250,Intro Linear Algebra,"Walker, Alexander",3.78
+01:640:250,Intro Linear Algebra,"Retakh, Vladimir",3.57
+01:640:250,Intro Linear Algebra,"Vogelius, Michael",3.69
+01:640:250,Intro Linear Algebra,"Wu, Chenxi",3.67
+01:640:250,Intro Linear Algebra,"Tiep, Pham",4.4
+01:640:250,Intro Linear Algebra,"Peruvemba Narayanan, Bhargav",3.38
+01:640:250,Intro Linear Algebra,"Kallupalam Balasubram, Moulik",3.97
+01:640:250,Intro Linear Algebra,"Goonetilleke, Lasantha",4.01
+01:640:251,Multivariable Calc,"Barreto-Aranda, Victor",3.67
+01:640:251,Multivariable Calc,"Shtelen, Vladimir",3.72
+01:640:251,Multivariable Calc,"Marszalek, Wieslaw",3.41
+01:640:251,Multivariable Calc,"Mavrea, Ioanna",3.37
+01:640:251,Multivariable Calc,"Prevost, Shari",4.21
+01:640:251,Multivariable Calc,"Toprak, Ebru",3.63
+01:640:251,Multivariable Calc,"Sosa, Jose",3.67
+01:640:251,Multivariable Calc,"Rong, Xiaochun",3.5
+01:640:251,Multivariable Calc,"Rota, Franco",3.92
+01:640:251,Multivariable Calc,"Echeverria Echeverria, Mariano",4.41
+01:640:251,Multivariable Calc,"Perelman, Naum",3.67
+01:640:251,Multivariable Calc,"Chanillo, Sagun",3.33
+01:640:252,Elem Diff Equations,"Ma, Man Shun",4.12
+01:640:252,Elem Diff Equations,"Chanillo, Sagun",3.56
+01:640:252,Elem Diff Equations,"Kan, Sophie",3.12
+01:640:285,Intro Interest Theor,"Salamon, Joshua",4.01
+01:640:300,Intro Math Reasoning,"Carbone, Lisa",4.14
+01:640:300,Intro Math Reasoning,"Molnar, David",3.94
+01:640:300,Intro Math Reasoning,"Tiep, Pham",4.28
+01:640:300,Intro Math Reasoning,"Sussmann, Hector",3.34
+01:640:300,Intro Math Reasoning,"Woodward, Christopher",4.23
+01:640:300,Intro Math Reasoning,"Retakh, Vladimir",4.06
+01:640:300,Intro Math Reasoning,"Gui, Bin",4.25
+01:640:300,Intro Math Reasoning,"Mejia-Ramos, Juan",4.03
+01:640:300,Intro Math Reasoning,"Komlos, Janos",3.8
+01:640:311,Intro Real Anal I,"Beals, Robert",4.31
+01:640:311,Intro Real Anal I,"Moeller, Sven",4.3
+01:640:311,Intro Real Anal I,"Molnar, David",3.5
+01:640:311,Intro Real Anal I,"Huang, Xiaojun",4.22
+01:640:311,Intro Real Anal I,"Beck, Jozsef",3.0
+01:640:321,Intro Applied Math,"Goonetilleke, Lasantha",4.06
+01:640:325,Found Quant Mechancs,"Kiessling, Michael",3.39
+01:640:336,Dynam Models Bio,"Kepley, Shane",3.4
+01:640:350,Linear Algebra,"Luo, Feng",4.12
+01:640:350,Linear Algebra,"Sesum, Natasa",2.53
+01:640:350,Linear Algebra,"Xiao, Jingni",4.29
+01:640:350,Linear Algebra,"Thomas, Simon",4.38
+01:640:350,Linear Algebra,"Huang, Yi-Zhi",3.69
+01:640:351,Intro Abstr Algeb I,"Klatt, Brian",4.3
+01:640:354,Linear Optimization,"Sanchez Tapia, Cynthia",3.47
+01:640:354,Linear Optimization,"Miller, Stephen",4.22
+01:640:354,Linear Optimization,"Noh, Eunjung",3.83
+01:640:356,Theory Of Numbers,"Moeller, Sven",3.1
+01:640:361,Set Theory,"Sussmann, Hector",2.74
+01:640:373,Numerical Analysis I,"Queirolo, Elena",3.71
+01:640:411,Math Analysis I,"Matveev, Konstantin",4.41
+01:640:421,Adv Calc For Engrng,"Noh, Eunjung",3.72
+01:640:421,Adv Calc For Engrng,"Song, Jian",4.11
+01:640:421,Adv Calc For Engrng,"Sahi, Siddhartha",3.16
+01:640:421,Adv Calc For Engrng,"Balaban, Tadeusz",3.32
+01:640:423,Elem Prtl Diff Eqtns,"Soffer, Avraham",2.92
+01:640:428,Graph Theory,"Kopparty, Swastik",3.54
+01:640:428,Graph Theory,"Beck, Jozsef",3.92
+01:640:435,Geometry,"Ma, Man Shun",3.9
+01:640:435,Geometry,"Tunnell, Jerrold",3.08
+01:640:441,Intro Topology I,"Weibel, Charles",3.4
+01:640:451,Abstract Algebra I,"Luo, Feng",4.11
+01:640:454,Combinatorial Theory,"Peruvemba Narayanan, Bhargav",2.88
+01:640:477,Math Theory Prob,"Burrin, Claire",3.39
+01:640:477,Math Theory Prob,"Salamon, Joshua",3.95
+01:640:477,Math Theory Prob,"Gupta, Purvi",3.91
+01:640:478,Intro Stochastic Pro,"Goldstein, Sheldon",3.81
+01:640:481,Math Theory Stat,"Cuello, William",3.63
+01:640:485,Intro Math Finance,"Pham, Triet",3.68
+01:640:485,Intro Math Finance,"Weston, Kimberly",4.09
+01:640:486,Math Lfe Cont Risk I,"Salamon, Joshua",4.13
+01:640:025,Elementary Algebra,"Mukherjee, Arun",3.69
+01:640:025,Elementary Algebra,"Sprague, Gabriela",3.51
+01:640:025,Elementary Algebra,"Kinkhabwala, Rita",2.84
+01:640:025,Elementary Algebra,"Mulvey, Sally",3.2
+01:640:025,Elementary Algebra,"Nazi, Ghassan",4.3
+01:640:025,Elementary Algebra,"Reynolds, Guy",3.61
+01:640:025,Elementary Algebra,"Harris, Lynn",4.15
+01:640:026,Intermediate Algebra,"Kinkhabwala, Rita",3.31
+01:640:026,Intermediate Algebra,"Patel, Saiju",3.34
+01:640:026,Intermediate Algebra,"Reynolds, Guy",4.04
+01:640:026,Intermediate Algebra,"Bifulco, Christina",3.75
+01:640:026,Intermediate Algebra,"Unger, Laura",3.78
+01:640:026,Intermediate Algebra,"Uppuganti, Lakshmi Sowjanya",3.63
+01:640:026,Intermediate Algebra,"Morehead, Diane",3.84
+01:640:026,Intermediate Algebra,"Ross, Arianne",3.34
+01:640:026,Intermediate Algebra,"Mulvey, Sally",3.54
+01:640:026,Intermediate Algebra,"Gonet, Sophia",3.94
+01:640:103,Topics Math Lib Arts,"Lieberman, Melissa",4.56
+01:640:103,Topics Math Lib Arts,"Sequin, Matthew",4.2
+01:640:103,Topics Math Lib Arts,"Gulick, Debra",4.33
+01:640:104,Intro To Probability,"Lieberman, Melissa",4.04
+01:640:104,Intro To Probability,"Weingart, Michael",3.77
+01:640:106,Mathematics Of Money,"Roemer, Cynthia",3.89
+01:640:106,Mathematics Of Money,"O'Halloran, Roger",3.28
+01:640:107,Number And Operation For K-8 Teaching,"Gonet, Sophia",3.92
+01:640:111,Precalc Part 1,"Khosla, Noopur",3.71
+01:640:111,Precalc Part 1,"Patel, Saiju",3.79
+01:640:111,Precalc Part 1,"Martorano, Paul",4.34
+01:640:111,Precalc Part 1,"Perkowski, James",3.36
+01:640:111,Precalc Part 1,"Frankie, Joseph",3.69
+01:640:111,Precalc Part 1,"Safran, Steven",3.8
+01:640:111,Precalc Part 1,"Farro, Scott",4.04
+01:640:111,Precalc Part 1,"Kennedy, Joanne",3.15
+01:640:111,Precalc Part 1,"Krueger, August",2.66
+01:640:112,Precalc Part 2,"Sherwood, Deborah",4.24
+01:640:112,Precalc Part 2,"Perelman, Naum",3.26
+01:640:112,Precalc Part 2,"Uppuganti, Lakshmi Sowjanya",4.06
+01:640:112,Precalc Part 2,"Peterson, Stephen",4.1
+01:640:115,Precalc College Math,"Wasserman, Eric",3.91
+01:640:115,Precalc College Math,"O'Halloran, Roger",4.13
+01:640:115,Precalc College Math,"Khosla, Noopur",3.26
+01:640:115,Precalc College Math,"D'Alesandro, Anthony",3.65
+01:640:115,Precalc College Math,"Amodio, James",3.82
+01:640:115,Precalc College Math,"Patel, Dhansukh",3.91
+01:640:115,Precalc College Math,"Kerrigan, John",4.47
+01:640:115,Precalc College Math,"Bifulco, Christina",4.08
+01:640:115,Precalc College Math,"Harris, Lynn",4.26
+01:640:123,Preparation For Calculus I,"Kerrigan, John",4.58
+01:640:135,Calculus I For The Life And Social      Sciences,"Mehta, Nishali",4.11
+01:640:135,Calculus I For The Life And Social      Sciences,"Unger, Laura",3.56
+01:640:135,Calculus I For The Life And Social      Sciences,"Mavrea, Ioanna",3.36
+01:640:135,Calculus I For The Life And Social      Sciences,"Liu, Liping",2.57
+01:640:135,Calculus I For The Life And Social      Sciences,"Perkowski, James",3.45
+01:640:135,Calculus I For The Life And Social      Sciences,"Bowles, Malcolm",3.91
+01:640:135,Calculus I For The Life And Social      Sciences,"Uppuganti, Lakshmi Sowjanya",3.79
+01:640:135,Calculus I For The Life And Social      Sciences,"Reynolds, Guy",4.28
+01:640:135,Calculus I For The Life And Social      Sciences,"Abadir, Rasha",3.97
+01:640:135,Calculus I For The Life And Social      Sciences,"Vera, Laurent",4.31
+01:640:135,Calculus I For The Life And Social      Sciences,"Lepowsky, James",3.16
+01:640:135,Calculus I For The Life And Social      Sciences,"O'Halloran, Roger",4.04
+01:640:135,Calculus I For The Life And Social      Sciences,"Wasserman, Eric",3.69
+01:640:135,Calculus I For The Life And Social      Sciences,"Farro, Scott",3.67
+01:640:135,Calculus I For The Life And Social      Sciences,"Vasquez, Jennifer",3.96
+01:640:135,Calculus I For The Life And Social      Sciences,"Sequin, Matthew",3.92
+01:640:135,Calculus I For The Life And Social      Sciences,"Tsipenyuk, Natalya",3.83
+01:640:135,Calculus I For The Life And Social      Sciences,"Sun, Hao",4.23
+01:640:136,Calculus II For The Life And            Social Sciences,"Sosa, Jose",3.86
+01:640:136,Calculus II For The Life And            Social Sciences,"Soffer, Sara",3.55
+01:640:151,Calc I Math/phys,"Sosa, Jose",3.47
+01:640:151,Calc I Math/phys,"D'Alesandro, Anthony",3.63
+01:640:151,Calc I Math/phys,"Scheffer, Vladimir",2.71
+01:640:151,Calc I Math/phys,"Bowles, Malcolm",4.14
+01:640:151,Calc I Math/phys,"Luo, Feng",3.37
+01:640:151,Calc I Math/phys,"Vera, Laurent",4.08
+01:640:151,Calc I Math/phys,"Sequin, Matthew",3.86
+01:640:151,Calc I Math/phys,"Sun, Hao",3.97
+01:640:151,Calc I Math/phys,"Sesum, Natasa",3.07
+01:640:152,Calculus II For The Mathematical And    Physical Sciences,"Frizzell, Carrie",4.08
+01:640:152,Calculus II For The Mathematical And    Physical Sciences,"Hovsepyan, Narek",4.03
+01:640:152,Calculus II For The Mathematical And    Physical Sciences,"Kan, Sophie",3.27
+01:640:244,Differential Equations For Engineering  And Physics,"Charnley, Matthew",4.43
+01:640:244,Differential Equations For Engineering  And Physics,"Zhang, Keyang",2.68
+01:640:244,Differential Equations For Engineering  And Physics,"Barreto-Aranda, Victor",3.29
+01:640:250,Intro Linear Algebra,"Soffer, Sara",3.8
+01:640:250,Intro Linear Algebra,"Kerrigan, John",4.19
+01:640:250,Intro Linear Algebra,"Mirek, Mariusz",3.78
+01:640:250,Intro Linear Algebra,"Silverstein, Laura",4.15
+01:640:250,Intro Linear Algebra,"Gilat, Shira",3.67
+01:640:250,Intro Linear Algebra,"Soffer, Avraham",3.25
+01:640:250,Intro Linear Algebra,"Luo, Feng",3.81
+01:640:251,Multivariable Calculus,"Ketover, Daniel",4.18
+01:640:251,Multivariable Calculus,"Frizzell, Carrie",3.85
+01:640:251,Multivariable Calculus,"Molnar, David",3.58
+01:640:251,Multivariable Calculus,"Coley, Ian",4.14
+01:640:252,Elem Diff Equations,"Li, Chi",3.34
+01:640:252,Elem Diff Equations,"Li, Zongyuan",4.28
+01:640:252,Elem Diff Equations,"Kriventsov, Denis",3.75
+01:640:291,Honors Calculus III,"Jauslin, Ian",3.95
+01:640:300,Intro Math Reasoning,"Mondal, Priyadip",3.97
+01:640:300,Intro Math Reasoning,"Gunby, Benjamin",4.09
+01:640:300,Intro Math Reasoning,"Ali, Abid",4.0
+01:640:311,Introduction To Real Analysis I,"Cao, Yunbai",3.27
+01:640:311,Introduction To Real Analysis I,"Sergel, Emily",4.55
+01:640:311,Introduction To Real Analysis I,"Larsen, Kasper",3.85
+01:640:311,Introduction To Real Analysis I,"Coley, Ian",3.75
+01:640:311,Introduction To Real Analysis I,"Chanillo, Sagun",2.56
+01:640:311,Introduction to Real Analysis I,"Mirek, Mariusz",3.97
+01:640:321,Intro Applied Math,"Cakoni, Fioralba",3.8
+01:640:325,Foundations Of Quantum Mechanics,"Goldstein, Sheldon",3.66
+01:640:336,Dynam Models Bio,"Zeilberger, Doron",2.68
+01:640:350,Linear Algebra,"Mckemmie, Eilidh",4.27
+01:640:350,Linear Algebra,"Ling, Eric",3.23
+01:640:350,Linear Algebra,"Sun, Yuhan",3.79
+01:640:350,Linear Algebra,"Cakoni, Fioralba",3.93
+01:640:351,Introduction To Abstract Algebra I,"Gilat, Shira",4.22
+01:640:354,Linear Optimization,"Silverstein, Laura",3.1
+01:640:354,Linear Optimization,"Shi, Ziming",3.49
+01:640:354,Linear Optimization,"Luo, Yanwen",4.26
+01:640:356,Theory Of Numbers,"Lutsko, Christopher",3.68
+01:640:361,Set Theory,"Thomas, Simon",3.77
+01:640:373,Numerical Analysis I,"Vogelius, Michael",2.64
+01:640:411,Math Analysis I,"Beals, Robert",4.02
+01:640:421,Adv Calc For Engrng,"Pham, Triet",3.82
+01:640:421,Adv Calc For Engrng,"Xiao, Jingni",3.69
+01:640:423,Elem Prtl Diff Eqtns,"Xiao, Jingni",3.08
+01:640:423,Elem Prtl Diff Eqtns,"Li, Zongyuan",4.27
+01:640:428,Graph Theory,"Matveev, Konstantin",3.8
+01:640:428,Graph Theory,"Luo, Yanwen",4.47
+01:640:437,History Of Mathematics,"Zeilberger, Doron",2.83
+01:640:441,Intro Topology I,"Sun, Yuhan",4.13
+01:640:451,Abstract Algebra I,"Tiep, Pham",3.68
+01:640:454,Combinatorial Theory,"Weibel, Charles",2.75
+01:640:477,Math Theory Prob,"Smilansky, Yotam",4.04
+01:640:478,Introduction To Stochastic Processes,"Goonetilleke, Lasantha",3.59
+01:640:478,Introduction To Stochastic Processes,"Pham, Triet",4.04
+01:640:481,Math Theory Stat,"Kallupalam Balasubram, Moulik",4.14
+01:640:491,Undergraduate Mathematics Seminar,"Rong, Xiaochun",3.75
+01:640:025,Elementary Algebra,"Schwarz, Jeffrey",3.61
+01:640:025,Elementary Algebra,"Dunkelman, Jodi",4.46
+01:640:026,Intermediate Algebra,"Dunkelman, Jodi",4.39
+01:640:026,Intermediate Algebra,"Sprague, Gabriela",3.26
+01:640:026,Intermediate Algebra,"Amodio, James",3.9
+01:640:026,Intermediate Algebra,"Harris, Lynn",4.2
+01:640:104,Introduction To Probability,"Woodbury, Michael",3.35
+01:640:104,Introduction To Probability,"O'Halloran, Roger",4.22
+01:640:106,Mathematics of Money,"Salamon, Joshua",1.96
+01:640:111,Precalculus Part I,"Gonet, Sophia",3.84
+01:640:111,Precalculus Part I,"Arias, Cecilia",4.29
+01:640:111,Precalculus Part I,"Frizzell, Carrie",3.81
+01:640:111,Precalculus Part I,"Gulick, Debra",4.43
+01:640:111,Precalculus Part I,"Peterson, Stephen",3.92
+01:640:111,Precalculus Part I,"Grillo, Corey",4.24
+01:640:111,Precalculus Part I,"Harris, Lynn",4.21
+01:640:111,Precalc Part 1,"Banerjee, Banmali",3.85
+01:640:111,Precalc Part 1,"Jabbari, Mohammad",3.22
+01:640:112,Precalculus Part II,"Schwarz, Jeffrey",3.9
+01:640:112,Precalculus Part II,"Unger, Laura",4.3
+01:640:112,Precalculus Part II,"Bifulco, Christina",4.18
+01:640:115,Precalculus College Mathematics,"Ning, Harold",3.57
+01:640:115,Precalculus College Mathematics,"Grillo, Corey",4.26
+01:640:115,Precalculus College Mathematics,"Morehead, Diane",3.59
+01:640:115,Precalculus College Mathematics,"Volpe, Tyler",4.27
+01:640:115,Precalculus College Mathematics,"Peterson, Stephen",3.96
+01:640:123,Preparation For Calculus I,"Bowles, Malcolm",4.22
+01:640:123,Preparation For Calculus I,"Scheiman, David",4.09
+01:640:123,Preparation For Calculus I,"Tabanli, Sheila",3.82
+01:640:125,Methods Of Mathematical Problem         Solving,"Tabanli, Sheila",4.23
+01:640:135,Calculus I For The Life And Social      Sciences,"Sosa, Jose",3.55
+01:640:135,Calculus I For The Life And Social      Sciences,"Kennedy, Joanne",3.03
+01:640:135,Calculus I For The Life And Social      Sciences,"Ellis, Paul",4.18
+01:640:135,Calculus I For The Life And Social      Sciences,"Cheng, Chiahui",3.75
+01:640:135,Calculus I For The Life And Social      Sciences,"Kan, Sophie",3.29
+01:640:135,Calculus I For The Life And Social      Sciences,"Ross, Arianne",3.66
+01:640:135,Calculus I For The Life And Social      Sciences,"Smilansky, Yotam",4.07
+01:640:135,Calculus I For The Life And Social      Sciences,"Barreto-Aranda, Victor",3.54
+01:640:135,Calculus I for the Life & Social Sciences,"Kallupalam Balasubram, Moulik",3.74
+01:640:135,Calculus I For The Life And Social      Sciences,"Mavrogiannis, Georgios",3.71
+01:640:135,Calculus I For The Life And Social      Sciences,"Li, Chi",2.55
+01:640:136,Calculus II For The Life And            Social Sciences,"Woodbury, Michael",3.22
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Ma, Zilu",3.59
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Kontorovich, Alex",3.92
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Ellis, Paul",3.49
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Zhou, Zehui",2.85
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Frizzell, Carrie",4.0
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Soria Carro, Maria",4.23
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Sun, Yuhan",3.39
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Banerjee, Banmali",4.07
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Ali, Abid",3.08
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Cheng, Chiahui",2.76
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Sun, Hongbin",3.85
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Cheng, Chiahui",3.67
+01:640:152,Calculus II for Mathematical & Physical Sciences,"Molnar, David",3.48
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Charnley, Matthew",4.01
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Calderoni, Filippo",3.85
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Woodbury, Michael",3.99
+01:640:244,Differential Equations For Engineering  And Physics,"Jabbari, Mohammad",2.87
+01:640:244,Differential Equations For Engineering  And Physics,"D'Alesandro, Anthony",4.11
+01:640:250,Intro Linear Algebra,"Mondal, Priyadip",4.27
+01:640:250,Intro Linear Algebra,"Mckemmie, Eilidh",3.72
+01:640:250,Intro Linear Algebra,"Weibel, Charles",2.5
+01:640:250,Intro Linear Algebra,"Shi, Ziming",3.14
+01:640:250,Intro Linear Algebra,"Woodbury, Michael",3.43
+01:640:250,Intro Linear Algebra,"Shtelen, Vladimir",3.57
+01:640:251,Multivariable Calculus,"Dul, Filip",4.16
+01:640:251,Multivariable Calculus,"Jabbari, Mohammad",3.5
+01:640:251,Multivariable Calculus,"Mehta, Nishali",3.97
+01:640:251,Multivariable Calculus,"Hovsepyan, Narek",3.89
+01:640:252,Elementary Differential Equations,"Hovsepyan, Narek",4.04
+01:640:252,Elementary Differential Equations,"Goldstein, Sheldon",2.87
+01:640:285,Introduction To Interest Theory For Actuarial Science,"Silverstein, Laura",3.27
+01:640:291,Honors Calculus III,"Han, Zheng-Chao",4.18
+01:640:300,Intro Math Reasoning,"Krishnan, Gautam Gopal",4.12
+01:640:300,Intro Math Reasoning,"Cakoni, Fioralba",4.27
+01:640:300,Intro Math Reasoning,"Echeverria Echeverria, Mariano",4.13
+01:640:300,Intro Math Reasoning,"Beals, Robert",4.34
+01:640:300,Intro Math Reasoning,"Saks, Michael",4.36
+01:640:311,Introduction To Real Analysis I,"Cakoni, Fioralba",3.87
+01:640:311,Introduction to Real Analysis I,"Pham, Triet",3.78
+01:640:311,Introduction To Real Analysis I,"Stewart, Gavin",2.92
+01:640:321,Intro Applied Math,"Cao, Yunbai",4.1
+01:640:336,Dynam Models Bio,"Thieme, Cameron",2.04
+01:640:350,Linear Algebra,"Chen, William",2.5
+01:640:350,Linear Algebra,"Weibel, Charles",2.62
+01:640:350,Linear Algebra,"Rong, Xiaochun",3.02
+01:640:350,Linear Algebra,"Lepowsky, James",4.34
+01:640:354,Linear Optimization,"Pham, Triet",3.63
+01:640:354,Linear Optimization,"Mehta, Nishali",4.38
+01:640:373,Numerical Analysis I,"Hejna, Agnieszka",3.99
+01:640:411,Math Analysis I,"Sun, Yuhan",3.05
+01:640:421,Advanced Calculus For Engineering,"Shi, Ziming",1.63
+01:640:423,Elem Prtl Diff Eqtns,"Luo, Yanwen",4.56
+01:640:428,Graph Theory,"Gunby, Benjamin",4.47
+01:640:428,Graph Theory,"Mavrea, Ioanna",3.2
+01:640:435,Geometry,"Sequin, Matthew",3.22
+01:640:437,History Of Mathematics,"Dimitrov, Stoyan",4.11
+01:640:441,Intro Topology I,"Mondal, Priyadip",4.62
+01:640:451,Abstract Algebra I,"Borisov, Lev",3.84
+01:640:454,Combinatorial Theory,"Matveev, Konstantin",3.82
+01:640:454,Combinatorial Theory,"Ellis, Paul",4.04
+01:640:477,Mathematical Theory Of Probability,"Sahi, Siddhartha",3.54
+01:640:481,Math Theory Stat,"Matveev, Konstantin",3.54
+01:640:485,Intro Math Finance,"Larsen, Kasper",3.82
+01:640:491,Undergraduate Mathematics Seminar,"Peruvemba Narayanan, Bhargav",4.02
+01:640:491,Undergraduate Mathematics Seminar,"Saks, Michael",4.15
+01:640:025,Elementary Algebra,"Cuadrado, Maria",3.58
+01:640:025,Elementary Algebra,"Hafizi, Fatemeh",2.81
+01:640:025,Elementary Algebra,"Lieberman, Melissa",4.46
+01:640:026,Intermediate Algebra,"D'Alesandro, Anthony",3.56
+01:640:026,Intermediate Algebra,"O'Halloran, Roger",3.52
+01:640:026,Intermediate Algebra,"Banerjee, Banmali",3.83
+01:640:026,Intermediate Algebra,"Arias, Cecilia",4.28
+01:640:026,Intermediate Algebra,"Forgoston, Sacha",4.23
+01:640:026,Intermediate Algebra,"Gulick, Debra",3.86
+01:640:103,Topics In Mathematics For The Liberal Arts,"Ross Pathak, Arianne",4.23
+01:640:103,Topics In Mathematics For The Liberal Arts,"Mavrea, Ioanna",2.44
+01:640:103,Topics In Mathematics For The Liberal Arts,"Forgoston, Sacha",4.5
+01:640:104,Introduction To Probability: Intro. To Probability,"Kennedy, Joanne",2.57
+01:640:106,Mathematics Of Money,"Vera, Laurent",4.38
+01:640:106,Mathematics Of Money,"Harris, Lynn",4.3
+01:640:106,Mathematics Of Money,"Gulick, Debra",4.38
+01:640:109,Geometry And Measurement For Middle     Grades Teaching,"Lieberman, Melissa",3.4
+01:640:111,Precalculus Part I,"Schwarz, Jeff",3.87
+01:640:111,Precalculus Part I,"Reynolds, Guy",4.22
+01:640:111,Precalculus Part I,"Wasserman, Eric",4.13
+01:640:111,Precalculus Part I,"Vera, Laurent",4.16
+01:640:111,Precalculus Part I,"Ning, Harold",3.52
+01:640:111,Precalculus Part I,"George, Michael",3.21
+01:640:111,Precalculus Part I,"Shah, Dr. Rajiv",3.44
+01:640:111,Precalculus Part I,"Lee, Jae Ki",4.24
+01:640:112,Precalculus Part II,"Frankie, Joseph",3.67
+01:640:112,Precalculus Part II,"Morehead, Diane",3.91
+01:640:112,Precalculus Part II,"Farro, Scott",3.93
+01:640:115,Precalculus College Mathematics,"Martin, Shannon",4.07
+01:640:115,Precalculus College Mathematics,"Ellis, Paul",3.91
+01:640:115,Precalculus College Mathematics,"Cuadrado, Maria",3.76
+01:640:115,Precalculus College Mathematics,"Kennedy, Joanne",3.04
+01:640:135,Calculus I For The Life And Social      Sciences,"Mckemmie, Eilidh",3.88
+01:640:135,Calculus I For The Life And Social      Sciences,"Xie, Junming",3.49
+01:640:135,Calculus I For The Life And Social      Sciences,"Sequin, Matt",4.25
+01:640:135,Calculus I For The Life And Social      Sciences,"Gonet, Sophia",4.24
+01:640:135,Calculus I For The Life And Social      Sciences,"Jabbari, Mohammad",3.51
+01:640:135,Calculus I For The Life And Social      Sciences,"Vinci, Sarina",4.32
+01:640:135,Calculus I For The Life And Social      Sciences,"Schwarz, Jeff",3.67
+01:640:135,Calculus I For The Life And Social      Sciences,"Sesum, Natasa",3.77
+01:640:135,Calculus I For The Life And Social      Sciences,"Shah, Dr. Rajiv",3.33
+01:640:135,Calculus I For The Life And Social      Sciences,"Martin, Shannon",4.29
+01:640:135,Calculus I For The Life And Social      Sciences,"Krishnan, Gautam Gopal",3.62
+01:640:135,Calculus I For The Life And Social      Sciences,"Yeung, Marc",4.01
+01:640:135,Calculus I For The Life And Social      Sciences,"Stone, Corey",4.23
+01:640:135,Calculus I For The Life And Social      Sciences,"Mallick, Abhishek",3.51
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Shtelen, Vladimir",3.78
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Ullman, Peter",3.98
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Silverstein, Laura",3.6
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Hallgren, Maximilien",3.73
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Barreto-Aranda, Victor",3.17
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Stone, Corey",3.53
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Rocha Vieira, Ewerton",3.3
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Reynolds, Guy",3.91
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Jabbari, Mohammad",3.34
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Sequin, Matt",4.23
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Vera, Laurent",4.36
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Silverstein, Laura",3.76
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Goonetilleke, Lasantha",3.31
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Gunby-Mann, Benjamin",3.67
+01:640:152,Calculus II For Mathematical And Physical Sciences,"D'Elia, Elizabeth",4.26
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Pham, Triet",3.76
+01:640:157,Calc I Mat/phy Prac,"Ellis, Paul",4.17
+01:640:157,Calc I Mat/phy Prac,"Mehta, Nishali",4.08
+01:640:158,Calc II Mat/phy Prac,"Bowles, Malcolm",3.91
+01:640:158,Calc II Mat/phy Prac,"Molnar, David",4.45
+01:640:244,Differential Equations For Engineering  And Physics,"Molnar, David",3.6
+01:640:250,Intro Linear Algebra,"Zhou, Zehui",3.95
+01:640:250,Intro Linear Algebra,"Echeverria Echeverria, Mariano",4.4
+01:640:250,Intro Linear Algebra,"Jabbari, Mohammad",4.12
+01:640:250,Intro Linear Algebra,"Khaitan, Ayush",3.9
+01:640:250,Intro Linear Algebra,"Ma, Zilu",3.84
+01:640:250,Intro Linear Algebra,"Kriventsov, Dennis",3.87
+01:640:250,Intro Linear Algebra,"Dimitrov, Stoyan",3.11
+01:640:251,Multivariable Calculus,"Van De Moortel, Maxime",3.9
+01:640:251,Multivariable Calculus,"Mondal, Priyadip",3.81
+01:640:252,Elementary Differential Equations,"Tobasco, Ian",3.63
+01:640:291,Honors Calculus III,"Barreto-Aranda, Victor",2.78
+01:640:300,Intro Math Reasoning,"Weibel, Charles",3.1
+01:640:300,Intro Math Reasoning,"Woodbury, Michael",4.03
+01:640:300,Intro Math Reasoning,"Hejna, Agnieszka",2.71
+01:640:300,Intro Math Reasoning,"Soffer, Sara",3.69
+01:640:300,Intro Math Reasoning,"Mavrea, Ioanna",2.48
+01:640:311,Introduction To Real Analysis I,"Rong, Xiaochun",3.8
+01:640:311,Introduction To Real Analysis I,"Kallupalam Balasubram, Moulik",2.3
+01:640:311,Introduction To Real Analysis I,"Hendricks, Kristen",4.19
+01:640:321,Intro Applied Math,"Pham, Triet",0.83
+01:640:336,Dynam Models Bio,"Zou, Jiahua",3.77
+01:640:350,Linear Algebra,"Li, Chi",4.35
+01:640:350,Linear Algebra,"Tahvildar-Zadeh, Shadi",3.91
+01:640:350,Linear Algebra,"Woodward, Christopher",4.16
+01:640:351,Introduction To Abstract Algebra I,"Mckemmie, Eilidh",4.0
+01:640:354,Linear Optimization,"Woodbury, Michael",3.34
+01:640:354,Linear Optimization,"Zeilberger, Doron",4.05
+01:640:354,Linear Optimization,"Alonso Lorenzo, Izar",3.4
+01:640:356,Theory Of Numbers,"Gunby-Mann, Benjamin",4.31
+01:640:361,Set Theory,"Benhamou, Tom",4.34
+01:640:411,Math Analysis I,"Mirek, Mariusz",3.05
+01:640:421,Advanced Calculus For Engineering,"Sun, Hongbin",3.89
+01:640:421,Advanced Calculus For Engineering,"Urtiaga Erneta, Inigo",4.17
+01:640:421,Advanced Calculus For Engineering,"Sesum, Natasa",3.66
+01:640:423,Elem Prtl Diff Eqtns,"Chanillo, Sagun",2.15
+01:640:423,Elem Prtl Diff Eqtns,"Mavrogiannis, Georgios",4.21
+01:640:428,Graph Theory,"Zeilberger, Doron",4.09
+01:640:435,Geometry,"Li, Chi",4.02
+01:640:437,History Of Mathematics,"Ellis, Paul",3.46
+01:640:441,Intro Topology I,"Spiro, Samuel",4.53
+01:640:451,Abstract Algebra I,"Weibel, Charles",2.13
+01:640:454,Combinatorial Theory,"Goldstein, Sheldon",4.25
+01:640:477,Mathematical Theory Of Probability,"Weston, Kimberly",4.11
+01:640:477,Mathematical Theory Of Probability,"Chan, Swee Hong",4.05
+01:640:478,Introduction To Stochastic Processes,"Kwon, Heeyoung",4.01
+01:640:481,Math Theory Stat,"Dimitrov, Stoyan",3.46
+01:640:485,Intro Math Finance,"Ma, Zilu",4.21
+01:640:491,Undergraduate Mathematics Seminar,"Stone, Corey",4.06
+01:640:026,Intermediate Algebra,"Hafizi, Fatemeh",2.51
+01:640:026,Intermediate Algebra,"Sosa, Jose",2.05
+01:640:026,Intermediate Algebra,"Kennedy, Joanne",2.43
+01:640:026,Intermediate Algebra,"Roemer, Cynthia",3.0
+01:640:026,Intermediate Algebra,"Echeverria Echeverria, Mariano",4.03
+01:640:026,Intermediate Algebra,"Wasserman, Eric",3.32
+01:640:026,Intermediate Algebra,"Ellis, Paul",4.53
+01:640:103,Topics In Mathematics For The Liberal Arts,"Charnley, Matthew",4.48
+01:640:104,Introduction To Probability: Intro. To Probability,"Bifulco, Christina",3.91
+01:640:106,Mathematics Of Money,"Sergel, Emily",4.19
+01:640:106,Mathematics Of Money,"Mulvey, Sally",3.18
+01:640:106,Mathematics Of Money,"Silverstein, Laura",4.35
+01:640:106,Mathematics Of Money,"Ross Pathak, Arianne",3.96
+01:640:107,Number And Operation For K-8 Teaching,"Arias, Cecilia",4.44
+01:640:111,Precalculus Part I,"Forgoston, Sacha",4.35
+01:640:111,Precalculus Part I,"Dunkelman, Jodi",4.32
+01:640:111,Precalculus Part I,"Sosa, Jose",3.6
+01:640:111,Precalculus Part I,"Bhuyan, Sue",4.15
+01:640:112,Precalculus Part II,"Ning, Harold",3.57
+01:640:115,Precalculus College Mathematics,"Ferguson, Brent",3.74
+01:640:115,Precalculus College Mathematics,"Shah, Dr. Rajiv",3.67
+01:640:115,Precalculus College Mathematics,"Goswami, Rashmika",3.44
+01:640:115,Precalculus College Mathematics,"Barreto-Aranda, Victor",3.06
+01:640:115,Precalculus College Mathematics,"Queiroz Velter, Mariana",3.57
+01:640:115,Precalculus College Mathematics,"Reynolds, Guy",4.38
+01:640:115,Precalculus College Mathematics,"Vasquez, Jennifer",4.11
+01:640:115,Precalculus College Mathematics,"Sosa, Jose",4.06
+01:640:123,Preparation For Calculus I,"Sprague, Gabriela",3.06
+01:640:123,Preparation For Calculus I,"Vera, Laurent",3.61
+01:640:130,Business Calculus,"Mehta, Nishali",4.05
+01:640:130,Business Calculus,"Sequin, Matt",3.85
+01:640:135,Calculus I For The Life And Social      Sciences,"Du, Jishen",3.24
+01:640:135,Calculus I For The Life And Social      Sciences,"Woodbury, Michael",3.47
+01:640:135,Calculus I For The Life And Social      Sciences,"Bahri, Mohamed El Hedi",3.9
+01:640:135,Calculus I For The Life And Social      Sciences,"Queiroz Velter, Mariana",3.56
+01:640:135,Calculus I For The Life And Social      Sciences,"Wang, Jianxiong",3.33
+01:640:135,Calculus I For The Life And Social      Sciences,"Volpe, Tyler",4.0
+01:640:135,Calculus I For The Life And Social      Sciences,"Spiro, Samuel",3.67
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Hejna, Agnieszka",3.73
+01:640:151,Calculus I For Mathematical And Physicalsciences,"D'Elia, Elizabeth",4.07
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Yeung, Marc",3.76
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Mavrea, Ioanna",3.65
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Zou, Jiahua",2.98
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Kwon, Heeyoung",4.0
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Khaitan, Ayush",3.78
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Mallick, Abhishek",3.67
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Pham, Triet",3.37
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Shah, Dr. Rajiv",3.88
+01:640:152,Calculus For Mathematical And           Physical Sciences,"Tahvildar-Zadeh, Shadi",3.97
+01:640:152,Calculus For Mathematical And           Physical Sciences,"Bowles, Malcolm",4.34
+01:640:152,Calculus For Mathematical And           Physical Sciences,"Leung, Wing Hong",3.25
+01:640:152,Calculus For Mathematical And           Physical Sciences,"Goonetilleke, Las",3.78
+01:640:152,Calculus For Mathematical And           Physical Sciences,"Jabbari, Mohammad",3.78
+01:640:152,Calculus For Mathematical And           Physical Sciences,"Stone, Corey",3.96
+01:640:157,Calc I Mat/phy Prac,"Stone, Corey",4.23
+01:640:157,Calc I Mat/phy Prac,"Bowles, Malcolm",4.48
+01:640:158,Calc II Mat/phy Prac,"Vera, Laurent",4.52
+01:640:244,Differential Equations For Engineering  And Physics,"Urtiaga Erneta, Inigo",3.31
+01:640:250,Intro Linear Algebra,"Goonetilleke, Las",3.88
+01:640:250,Intro Linear Algebra,"Larsen, Kasper",3.68
+01:640:250,Intro Linear Algebra,"Sinapova, Dima",3.66
+01:640:250,Intro Linear Algebra,"Chanillo, Sagun",3.3
+01:640:250,Intro Linear Algebra,"Goldstein, Sheldon",3.0
+01:640:250,Intro Linear Algebra,"Benhamou, Tom",2.68
+01:640:250,Intro Linear Algebra,"Dul, Filip",4.34
+01:640:251,Multivariable Calculus,"Nair, Gokul",3.8
+01:640:251,Multivariable Calculus,"Jauslin, Ian",4.14
+01:640:251,Multivariable Calculus,"Tsipenyuk, Natalya",4.2
+01:640:251,Multivariable Calculus,"Rao, Zhenghao",2.8
+01:640:251,Multivariable Calculus,"D'Alesandro, Anthony",3.9
+01:640:251,Multivariable Calculus,"Han, Zheng-Chao",2.99
+01:640:252,Elementary Differential Equations,"Stewart, Gavin",4.1
+01:640:291,Honors Calculus III,"Chan, Swee Hong",4.07
+01:640:300,Intro Math Reasoning,"Calderoni, Filippo",4.53
+01:640:300,Intro Math Reasoning,"Benhamou, Tom",3.54
+01:640:300,Intro Math Reasoning,"Matveev, Konstantin",3.4
+01:640:300,Intro Math Reasoning,"Zou, Jiahua",1.93
+01:640:311,Introduction To Real Analysis I,"Soria Carro, Maria",4.35
+01:640:311,Introduction To Real Analysis I,"Komlos, Janos",4.1
+01:640:321,Intro Applied Math,"Rocha Vieira, Ewerton",3.63
+01:640:325,Foundations Of Quantum Mechanics,"Carlen, Eric",3.45
+01:640:336,Dynam Models Bio,"Khaitan, Ayush",4.0
+01:640:350,Linear Algebra,"Hallgren, Maximilien",4.01
+01:640:350,Linear Algebra,"Song, Jian",2.95
+01:640:351,Introduction To Abstract Algebra I,"Luo, Feng",4.3
+01:640:354,Linear Optimization,"Xie, Junming",2.98
+01:640:354,Linear Optimization,"Jabbari, Mohammad",3.7
+01:640:356,Theory Of Numbers,"Zeilberger, Doron",2.21
+01:640:411,Math Analysis I,"Hendricks, Kristen",4.31
+01:640:421,Advanced Calculus For Engineering,"Zeilberger, Doron",4.04
+01:640:423,Elem Prtl Diff Eqtns,"Han, Zheng-Chao",2.43
+01:640:423,Elem Prtl Diff Eqtns,"Hovsepyan, Narek",3.9
+01:640:428,Graph Theory,"Dimitrov, Stoyan",3.35
+01:640:428,Graph Theory,"Weibel, Charles",1.92
+01:640:437,History Of Mathematics,"Kiessling, Michael",3.86
+01:640:441,Intro Topology I,"Woodward, Christopher",4.14
+01:640:454,Combinatorial Theory,"Dimitrov, Stoyan",3.91
+01:640:478,Introduction To Stochastic Processes,"Goonetilleke, Las",3.03
+01:640:026,Intermediate Algebra,"Milman, Yevgeniy",3.93
+01:640:026,Intermediate Algebra,"Sherwood, Deborah",3.69
+01:640:103,Topics In Mathematics For The Liberal Arts,"Perkowski, James",3.2
+01:640:103,Topics In Mathematics For The Liberal Arts,"Sergel, Emily",4.32
+01:640:104,Introduction To Probability,"Sprague, Gabriela",3.83
+01:640:106,Mathematics Of Money,"Perkowski, James",2.54
+01:640:106,Mathematics Of Money,"Ross, Arianne",3.63
+01:640:107,Number And Operation For K-8 Teaching,"Gulick, Debra",4.44
+01:640:110,Algebra For Middle School Teachers,"Beals, Robert",3.98
+01:640:111,Precalculus Part I,"Scheiman, David",4.02
+01:640:112,Precalculus Part II,"Reynolds, Guy",4.46
+01:640:112,Precalculus Part II,"Khosla, Noopur",3.94
+01:640:112,Precalculus Part II,"Safran, Steven",4.25
+01:640:123,Preparation For Calculus I,"Bifulco, Christina",3.56
+01:640:123,Preparation For Calculus I,"Sherwood, Deborah",4.22
+01:640:135,Calculus I For The Life And Social      Sciences,"Harris, Lynn",4.23
+01:640:136,Calculus II For The Life And            Social Sciences,"Cao, Yunbai",4.23
+01:640:152,Calculus For Mathematical And           Physical Sciences,"Prevost, Shari",3.88
+01:640:152,Calculus For Mathematical And           Physical Sciences,"D'Alesandro, Anthony",3.76
+01:640:152,Calculus For Mathematical And           Physical Sciences,"Lutsko, Christopher",3.71
+01:640:152,Calculus For Mathematical And           Physical Sciences,"Sequin, Matthew",4.09
+01:640:152,Calculus For Mathematical And           Physical Sciences,"Mavrea, Ioanna",3.71
+01:640:244,Differential Equations For Engineering  And Physics,"Frizzell, Carrie",4.3
+01:640:244,Differential Equations For Engineering  And Physics,"Goonetilleke, Lasantha",3.89
+01:640:244,Differential Equations For Engineering  And Physics,"Sosa, Jose",3.37
+01:640:250,Intro Linear Algebra,"Vera, Laurent",4.37
+01:640:250,Intro Linear Algebra,"Zhang, Wujun",3.68
+01:640:250,Intro Linear Algebra,"Han, Zheng-Chao",3.37
+01:640:251,Multivariable Calculus,"Kiessling, Michael",1.26
+01:640:252,Elementary Differential Equations,"Sun, Hongbin",3.81
+01:640:252,Elementary Differential Equations,"Ling, Eric",3.76
+01:640:292,Honors Calculus IV,"Jauslin, Ian",3.81
+01:640:300,Intro Math Reasoning,"Weston, Kimberly",4.17
+01:640:300,Intro Math Reasoning,"Scheffer, Vladimir",4.1
+01:640:300,Intro Math Reasoning,"Sergel, Emily",4.26
+01:640:311,Introduction To Real Analysis I,"Hovsepyan, Narek",3.97
+01:640:311,Introduction To Real Analysis I,"Kriventsov, Denis",3.51
+01:640:312,Introduction To Real Analysis II,"Kiessling, Michael",3.93
+01:640:336,Dynam Models Bio,"Mischaikow, Konstantin",4.43
+01:640:338,Disc&prob Models Bio,"Goldstein, Sheldon",3.59
+01:640:348,Cryptography,"Retakh, Vladimir",3.55
+01:640:348,Cryptography,"Mckemmie, Eilidh",4.12
+01:640:350,Linear Algebra,"Borisov, Lev",3.72
+01:640:351,Introduction To Abstract Algebra I,"Borisov, Lev",3.53
+01:640:354,Linear Optimization,"Scheiman, David",4.16
+01:640:354,Linear Optimization,"Hendricks, Kristen",4.53
+01:640:356,Theory Of Numbers,"Gunby, Benjamin",3.28
+01:640:357,Topics Applied Algeb,"Ali, Abid",3.49
+01:640:373,Numerical Analysis I,"Zhang, Wujun",3.78
+01:640:403,Intro Complex Var,"Mondal, Priyadip",4.22
+01:640:403,Intro Complex Var,"Li, Yanyan",1.4
+01:640:412,Math Analysis II,"Han, Zheng-Chao",4.01
+01:640:421,Advanced Calculus For Engineering,"Ketover, Daniel",4.07
+01:640:421,Advanced Calculus For Engineering,"Li, Zongyuan",4.23
+01:640:421,Advanced Calculus For Engineering,"Bowles, Malcolm",4.19
+01:640:423,Elem Prtl Diff Eqtns,"Huang, Yi-Zhi",3.5
+01:640:428,Graph Theory,"Mehta, Nishali",4.16
+01:640:432,Intro Diff Geometry,"Song, Jian",4.38
+01:640:437,History Of Mathematics,"Lutsko, Christopher",4.02
+01:640:452,Abstract Algebra II,"Gilat, Shira",4.41
+01:640:477,Mathematical Theory Of Probability,"Sun, Yuhan",3.53
+01:640:481,Math Theory Stat,"Pham, Triet",4.36
+01:640:487,Mathematics Of Life Contingent Risk Models II,"Salamon, Joshua",4.2
+01:640:492,Math Seminar,"Sun, Yuhan",3.4
+01:640:025,Elementary Algebra,"Banerjee, Banmali",3.96
+01:640:026,Intermediate Algebra,"Schwarz, Jeffrey",3.48
+01:640:026,Intermediate Algebra,"Romano, Alfred",2.68
+01:640:026,Intermediate Algebra,"Volpe, Tyler",3.45
+01:640:103,Topics In Mathematics For The Liberal Arts,"Bifulco, Christina",4.0
+01:640:103,Topics In Mathematics For The Liberal Arts,"Silverstein, Laura",3.73
+01:640:103,Topics In Mathematics For The Liberal Arts,"Ellis, Paul",4.38
+01:640:106,Mathematics Of Money,"Gonet, Sophia",3.8
+01:640:106,Mathematics Of Money,"Lieberman, Melissa",4.6
+01:640:106,Mathematics Of Money,"D'Alesandro, Anthony",3.12
+01:640:110,Algebra For Middle School Teachers,"Gulick, Debra",4.32
+01:640:111,Precalculus Part I,"Volpe, Tyler",4.21
+01:640:111,Precalculus Part I,"Cheng, Chiahui",3.63
+01:640:112,Precalculus Part II,"Mulvey, Sally",3.5
+01:640:112,Precalculus Part II,"Jabbari, Mohammad",3.51
+01:640:112,Precalculus Part II,"Woodbury, Michael",3.64
+01:640:112,Precalculus Part II,"Hafizi, Fatemeh",3.16
+01:640:112,Precalculus Part II,"Patel, Saiju",3.97
+01:640:112,Precalculus Part II,"George, Michael",3.88
+01:640:112,Precalculus Part II,"Cheng, Chiahui",3.31
+01:640:112,Precalculus Part II,"Harris, Lynn",4.39
+01:640:112,Precalculus Part II,"Vasquez, Jennifer",4.05
+01:640:112,Precalculus Part II,"Vera, Laurent",4.23
+01:640:115,Precalculus College Mathematics,"Vera, Laurent",3.78
+01:640:115,Precalculus College Mathematics,"Kan, Sophie",3.03
+01:640:115,Precalculus College Mathematics,"Hafizi, Fatemeh",3.21
+01:640:115,Precalculus College Mathematics,"Silverstein, Laura",3.28
+01:640:115,Precalculus College Mathematics,"Dunkelman, Jodi",4.17
+01:640:123,Preparation For Calculus I,"Sequin, Matt",3.94
+01:640:123,Preparation For Calculus I,"Banerjee, Banmali",4.14
+01:640:135,Calculus I For The Life And Social      Sciences,"Chen, William",3.8
+01:640:152,Calculus For Mathematical And           Physical Sciences,"Gonet, Sophia",3.8
+01:640:152,Calculus For Mathematical And           Physical Sciences,"Mavrogiannis, Georgios",3.42
+01:640:196,Sem In Mathematic II,"Komlos, Janos",4.11
+01:640:244,Differential Equations For Engineering  And Physics,"Shi, Ziming",3.39
+01:640:244,Differential Equations For Engineering  And Physics,"Sesum, Natasa",3.62
+01:640:252,Elementary Differential Equations,"Song, Jian",4.11
+01:640:300,Intro Math Reasoning,"Silverstein, Laura",3.77
+01:640:311,Introduction To Real Analysis I,"Dul, Filip",4.21
+01:640:312,Introduction To Real Analysis II,"Vogelius, Michael",3.43
+01:640:348,Cryptography,"Ali, Abid",3.23
+01:640:350,Linear Algebra,"Calderoni, Filippo",4.4
+01:640:350,Linear Algebra,"Goonetilleke, Lasantha",2.98
+01:640:350,Linear Algebra,"Mondal, Priyadip",4.29
+01:640:351,Introduction To Abstract Algebra I,"Rong, Xiaochun",2.63
+01:640:351,Introduction To Abstract Algebra I,"Thomas, Simon",4.61
+01:640:356,Theory Of Numbers,"Dimitrov, Stoyan",4.07
+01:640:356,Theory Of Numbers,"Chen, William",2.61
+01:640:403,Intro Complex Var,"Sun, Yuhan",2.09
+01:640:403,Intro Complex Var,"Hejna, Agnieszka",0.7
+01:640:421,Advanced Calculus For Engineering,"Huang, Yi-Zhi",3.45
+01:640:421,Advanced Calculus For Engineering,"Soria Carro, Maria",4.22
+01:640:421,Advanced Calculus For Engineering,"Kallupalam Balasubram, Moulik",3.93
+01:640:423,Elem Prtl Diff Eqtns,"Li, Yanyan",2.94
+01:640:428,Graph Theory,"Chan, Swee Hong",4.42
+01:640:432,Intro Differential Geometry,"Sun, Hongbin",3.81
+01:640:442,Intro Topology II,"Retakh, Vladimir",3.86
+01:640:452,Abstract Algebra II,"Luo, Feng",2.98
+01:640:461,Math Logic,"Thomas, Simon",3.94
+01:640:477,Mathematical Theory Of Probability,"Van De Moortel, Maxime",4.1
+01:640:477,Mathematical Theory Of Probability,"Goldstein, Sheldon",3.74
+01:640:477,Mathematical Theory Of Probability,"Fuzeto Gameiro, Marcio",3.77
+01:640:478,Introduction To Stochastic Processes,"Thieme, Cameron",3.6
+01:640:492,Math Seminar,"Kontorovich, Alex",3.65
+01:640:103,Topics In Mathematics For The Liberal Arts,"Kennedy, Joanne",1.94
+01:640:103,Topics In Mathematics For The Liberal Arts,"Nazi, Ghassan",4.48
+01:640:103,Topics In Mathematics For The Liberal Arts,"Frizzell, Carrie",3.99
+01:640:106,Mathematics Of Money,"Vaksman, Sofia",4.22
+01:640:106,Mathematics Of Money,"Bifulco, Christina",3.74
+01:640:107,Number And Operation For K-8 Teaching,"Harris, Lynn",4.33
+01:640:111,Precalculus Part I,"Cuadrado, Maria",3.56
+01:640:112,Precalculus Part II,"D'Elia, Elizabeth",4.27
+01:640:112,Precalculus Part II,"Lee, Jae Ki",4.19
+01:640:112,Precalculus Part II,"Cuadrado, Maria",3.85
+01:640:112,Precalculus Part II,"Sprague, Gabriela",4.1
+01:640:112,Precalculus Part II,"Schwarz, Jeff",3.82
+01:640:112,Precalculus Part II,"Volpe, Tyler",4.05
+01:640:112,Precalculus Part II,"Arias, Cecilia",4.34
+01:640:112,Precalculus Part II,"Nazi, Ghassan",4.03
+01:640:115,Precalculus College Mathematics,"Sprague, Gabriela",3.13
+01:640:123,Preparation For Calculus I,"Ellis, Paul",2.77
+01:640:123,Preparation For Calculus I,"Grillo, Corey",3.73
+01:640:135,Calculus I For The Life And Social Sciences,"Silverstein, Laura",4.02
+01:640:136,Calculus II For The Life And Social Sciences,"Gonet, Sophia",3.86
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Sequin, Matt",4.04
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Martin, Shannon",4.14
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Volpe, Tyler",4.02
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Harris, Lynn",4.09
+01:640:151,Calculus I For Mathematical And Physicalsciences,"Stewart, Gavin",3.58
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Queiroz Velter, Mariana",3.79
+01:640:152,Calculus II For Mathematical And Physical Sciences,"Scheiman, David",4.24
+01:640:157,Calc I Mat/phy Prac,"Molnar, David",4.14
+01:640:158,Calc II Mat/phy Prac,"Ellis, Paul",3.95
+01:640:244,Differential Equations For Engineering  And Physics,"Vogelius, Michael",3.54
+01:640:244,Differential Equations For Engineering  And Physics,"Goonetilleke, Las",3.66
+01:640:244,Differential Equations For Engineering  And Physics,"Mavrea, Ioanna",3.16
+01:640:244,Differential Equations For Engineering  And Physics,"Zhou, Zehui",3.99
+01:640:250,Intro Linear Algebra,"Mejia-Ramos, Juan",3.5
+01:640:250,Intro Linear Algebra,"Mehta, Nishali",3.7
+01:640:250,Intro Linear Algebra,"Alonso Lorenzo, Izar",3.45
+01:640:250,Intro Linear Algebra,"Frizzell, Carrie",4.17
+01:640:251,Multivariable Calculus,"Xu, Guangbo",3.37
+01:640:251,Multivariable Calculus,"Sangam, Karuna",4.41
+01:640:252,Elementary Differential Equations,"Kriventsov, Dennis",3.94
+01:640:292,Honors Calculus IV,"Kallupalam Balasubram, Moulik",4.09
+01:640:300,Intro Math Reasoning,"Dul, Filip",4.38
+01:640:300,Intro Math Reasoning,"Frizzell, Carrie",4.05
+01:640:311,Introduction To Real Analysis I,"Ma, Zilu",4.13
+01:640:348,Cryptography,"Woodbury, Michael",3.67
+01:640:350,Linear Algebra,"Carbone, Lisa",3.42
+01:640:351,Introduction To Abstract Algebra I,"Tiep, Pham",4.07
+01:640:354,Linear Optimization,"Kallupalam Balasubram, Moulik",4.23
+01:640:356,Theory Of Numbers,"Luo, Feng",4.36
+01:640:357,Topics Applied Algeb,"Jabbari, Mohammad",3.78
+01:640:403,Intro Complex Var,"Hovsepyan, Narek",3.83
+01:640:421,Advanced Calculus For Engineering,"Shtelen, Vladimir",3.5
+01:640:423,Elem Prtl Diff Eqtns,"Urtiaga Erneta, Inigo",2.55
+01:640:428,Graph Theory,"Gunby-Mann, Benjamin",4.43
+01:640:432,Intro Diff Geometry,"Mavrogiannis, Georgios",4.64
+01:640:437,History Of Mathematics,"Khaitan, Ayush",3.63
+01:640:437,History Of Mathematics,"Zou, Jiahua",3.18
+01:640:442,Intro Topology II,"Hendricks, Kristen",2.44
+01:640:452,Abstract Algebra II,"Zou, Jiahua",4.03
+01:640:461,Math Logic,"Benhamou, Tom",3.24
+01:640:477,Mathematical Theory Of Probability,"Jauslin, Ian",4.29
+01:640:477,Mathematical Theory Of Probability,"Xie, Junming",3.39
+01:640:477,Mathematical Theory Of Probability,"Sergel, Emily",4.21
+01:640:481,Math Theory Stat,"Rocha Vieira, Ewerton",3.79
+01:640:488,Mathematics Of Short-Term Risk Models,"Salamon, Joshua",4.08
+01:640:492,Math Seminar,"Echeverria Echeverria, Mariano",3.2
+01:640:495,Sel Topics In Math: Math Adventures In One-Dimensional Phys,"Tahvildar-Zadeh, Shadi",3.81
