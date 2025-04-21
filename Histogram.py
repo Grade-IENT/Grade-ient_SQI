@@ -11,8 +11,7 @@ def get_SQIs(file_name):
 def plot_all_SQIs(dept, dept_abbr):
     fig, axs = plt.subplots(ncols = 3)
 
-    SQIs = get_SQIs(f'{dept}\\{dept_abbr}_trunc_collapsed_course_SQI.csv')
-    # print(SQIs)
+    SQIs = get_SQIs(f'courses\\{dept}\\{dept_abbr}_trunc_collapsed_course_SQI.csv')
     ax = axs[0]
     ax.hist(SQIs, [x/2 for x in range(11)])
     ax.set_title(f'{dept} Course SQIs')
@@ -22,7 +21,7 @@ def plot_all_SQIs(dept, dept_abbr):
     ax.axvline(mean, color = 'r')
     ax.axvline(median, color = 'lime')
 
-    SQIs = get_SQIs(f'{dept}\\{dept_abbr}_trunc_collapsed_professor_SQI.csv')
+    SQIs = get_SQIs(f'courses\\{dept}\\{dept_abbr}_trunc_collapsed_professor_SQI.csv')
     ax = axs[1]
     ax.hist(SQIs, [x/2 for x in range(11)])
     ax.set_title(f'{dept} Professor SQIs')
@@ -32,7 +31,7 @@ def plot_all_SQIs(dept, dept_abbr):
     ax.axvline(mean, color = 'r')
     ax.axvline(median, color = 'lime')
 
-    SQIs = get_SQIs(f'{dept}\\{dept_abbr}_trunc_collapsed_course-professor_SQI.csv')
+    SQIs = get_SQIs(f'courses\\{dept}\\{dept_abbr}_trunc_collapsed_course-professor_SQI.csv')
     ax = axs[2]
     ax.hist(SQIs, [x/2 for x in range(11)])
     ax.set_title(f'{dept} Course-Professor SQIs')
